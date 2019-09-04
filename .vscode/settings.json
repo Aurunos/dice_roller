@@ -1,0 +1,9 @@
+{
+    "shifty.shiftInterval.shiftFontFamilyIntervalMin": 0,
+    "shifty.shiftInterval.shiftColorThemeIntervalMin": 60,
+    "shifty.fontFamilies.fallbackFontFamily": "'Source Code Pro'",
+    "editor.fontFamily": "'Source Code Pro'",
+    "debug.console.fontFamily": "'Source Code Pro'",
+    "markdown.preview.fontFamily": "'Source Code Pro'",
+    "terminal.integrated.fontFamily": "'Source Code Pro'"
+}
